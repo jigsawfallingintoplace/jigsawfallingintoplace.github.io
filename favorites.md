@@ -27,7 +27,7 @@ Limit one album per artist.
 19. Aphex Twin - Syro
 20. 五条人 - 广东姑娘
 
-# Random Albums Recommendations
+# Random Album Recommendations
 Since these are "recommendations", I'm avoiding the obvious classics that everyone loves like OK Computer or DSOTM
 + Feels - Animal Collective
 + If You're Feeling Sinister - Belle & Sebastian
