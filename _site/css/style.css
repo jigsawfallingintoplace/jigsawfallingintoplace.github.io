@@ -126,7 +126,7 @@ a.postLink:hover { border-bottom: 1px dotted; }
 a.post-title-link:hover { border-bottom: 1px dotted !important; }
 
 /** Blockquotes */
-blockquote { border-left: 4px solid; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
+blockquote { border-left: 4px solid; padding-left: 15px; font-size: 18px; letter-spacing: -1px; }
 
 blockquote > :last-child { margin-bottom: 0; }
 
@@ -150,7 +150,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 /** Icons */
 .icon > svg { display: inline-block; width: 16px; height: 16px; vertical-align: middle; }
 
-.post { font-family: "Source Sans Pro"; font-size: 18px; font-weight: 300; padding-top: 0; }
+.post { font-family: "Tahoma"; font-size: 18px; font-weight: 300; padding-top: 10; }
 
 .home { padding-bottom: 5em; }
 
@@ -240,13 +240,13 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 /** Posts */
 .post-header { margin-bottom: 30px; }
 
-.post-title { font-size: 62px; text-align: center; font-family: "PT Sans"; font-weight: 900; }
+.post-title { font-size: 50px; text-align: center; font-family: "PT Sans"; font-weight: 600; }
 
 @media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
 
-.post-content { margin-bottom: 30px; padding-bottom: 3em !important; }
+.post-content { margin-bottom: 30px; padding-bottom: 3em; }
 
-.post-content p { font-size: 1.5rem; }
+.post-content p { font-size: 1.1rem; }
 
 .post-content h2 { font-size: 32px; }
 
